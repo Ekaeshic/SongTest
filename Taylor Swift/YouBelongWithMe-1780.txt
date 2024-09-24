@@ -5,7 +5,6 @@
 #LANGUAGE:English
 #COVER: YouBelongWithMe-1780.jpg
 #MP3: YouBelongWithMe-1780.mp3
-#VIDEO: YouBelongWithMe-1780.mp4
 #BACKGROUND: YouBelongWithMe-1780.jpg
 #RELATIVE: No
 #VIDEOGAP:0.00
