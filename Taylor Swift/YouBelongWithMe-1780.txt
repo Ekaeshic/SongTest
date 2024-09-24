@@ -4,12 +4,14 @@
 #CREATOR:Songmaster
 #LANGUAGE:English
 #COVER: YouBelongWithMe-1780.jpg
-#MP3: YouBelongWithMe-1780.mp3
+#MP3: YouBelongWithMe-1780.ogg
 #BACKGROUND: YouBelongWithMe-1780.jpg
 #RELATIVE: No
 #VIDEOGAP:0.00
 #BPM:260,20
 #GAP:8213,83
+#PREVIEWSTART:60
+#USDB:1780
 : 0 6 61 You're 
 : 8 2 58 on 
 : 12 2 58 the 
